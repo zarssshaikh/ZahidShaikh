@@ -6,6 +6,7 @@
 	@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
 	@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800");
 	@import url('https://fonts.googleapis.com/css?family=Rock+Salt&display=swap');
+	@import url('https://fonts.googleapis.com/css2?family=Volkhov:ital,wght@1,700&display=swap');
 	body {
 	    font-family: "Poppins", sans-serif;
 	    font-weight: normal;
@@ -180,7 +181,7 @@
 	    -moz-user-select: none;
 	    -ms-user-select: none;
 	    user-select: none;
-	    border: 10px solid #754cfa;
+	    border: 2px solid #754cfa;
 	    padding: 0 40px;
 	    font-size: 15px;
 	    line-height: 48px;
@@ -1195,7 +1196,7 @@
 	
 	.typewrite {
 	    color: black;
-	    font-family: 'Poppins', cursive;
+	    font-family: 'Volkhov', serif;
 	    text-align: center;
 	    text-transform: capitalize;
 	    text-shadow: 2px 1px black;
