@@ -180,7 +180,7 @@
 	    -moz-user-select: none;
 	    -ms-user-select: none;
 	    user-select: none;
-	    border: 1px solid #000000;
+	    border: 10px solid #754cfa;
 	    padding: 0 40px;
 	    font-size: 15px;
 	    line-height: 48px;
@@ -1195,7 +1195,7 @@
 	
 	.typewrite {
 	    color: black;
-	    font-family: 'Pacifico', cursive;
+	    font-family: 'Poppins', cursive;
 	    text-align: center;
 	    text-transform: capitalize;
 	    text-shadow: 2px 1px black;
