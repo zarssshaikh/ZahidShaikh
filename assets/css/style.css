@@ -181,7 +181,9 @@
 	    -moz-user-select: none;
 	    -ms-user-select: none;
 	    user-select: none;
-	    border: 1px solid #754cfa;
+	    border-top: 1px solid #754cfa;
+		border-left: 1px solid #754cfa;
+		border-right: 1px solid #754cfa;
 	    padding: 0 40px;
 	    font-size: 15px;
 	    line-height: 48px;
