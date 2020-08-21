@@ -185,8 +185,8 @@
 	    padding: 0 40px;
 	    font-size: 15px;
 	    line-height: 48px;
-	    border-radius: 5px;
-	    color: #000000;
+	    border-radius: 50px;
+	    color: #fff;
 	    cursor: pointer;
 	    z-index: 5;
 	    -webkit-transition: all 0.3s ease-out 0s;
@@ -197,14 +197,14 @@
 	    -webkit-box-shadow: 0px 5px 8px 0px rgba(118, 78, 249, 0.55);
 	    -moz-box-shadow: 0px 5px 8px 0px rgba(118, 78, 249, 0.55);
 	    box-shadow: 0px 5px 8px 0px rgba(118, 78, 249, 0.55);
-	    background-color: #ffffff;
+	    background-color: #000000;
 	    text-transform: uppercase;
 	}
 	
 	#main-btn:hover {
-	    background-color: #000000;
-	    color: #ffffff;
-	    border-color: #ffffff;
+	    background-color: #fff;
+	    color: #000000;
+	    border-color: #000000;
 	}
 	
 	#main-btn#main-btn-2 {
@@ -748,7 +748,7 @@
 	
 	.navigation .navbar .navbar-nav .nav-item.active a,
 	.navigation .navbar .navbar-nav .nav-item:hover a {
-	    color: white;
+	    color: #DCDCDC;
 	}
 	
 	.navigation .navbar .navbar-nav .nav-item.active a::before,
@@ -980,7 +980,7 @@
 	}
 	
 	.header-image {
-	    max-width: 420px;
+	    max-width: 500px;
 	    margin: 0 auto;
 	    position: relative;
 	    border: 10px double white;
